@@ -1,6 +1,6 @@
-package Poo.teste;
+package Poo.A_introducaoClasses.teste;
 
-import Poo.dominio.carroExercicio;
+import Poo.A_introducaoClasses.dominio.carroExercicio;
 
 public class carroExercicioTeste1 {
     static void main() {
@@ -12,6 +12,7 @@ public class carroExercicioTeste1 {
         carro02.nome="tracker";
         carro02.ano=2021;
         carro02.modelo="SUV";
+        carro01=carro02;
         System.out.println(carro01.ano+" "+carro01.modelo+" "+carro01.nome);
         System.out.println(carro02.ano+" "+carro02.modelo+" "+carro02.nome);
     }

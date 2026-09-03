@@ -1,6 +1,6 @@
-package Poo.teste;
+package Poo.A_introducaoClasses.teste;
 
-import Poo.dominio.professor;
+import Poo.A_introducaoClasses.dominio.professor;
 
 public class professorTeste01 {
     static void main() {

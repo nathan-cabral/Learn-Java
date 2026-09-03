@@ -1,8 +1,8 @@
-package Poo.teste;
+package Poo.A_introducaoClasses.teste;
 
 import java.util.Scanner;
 
-import Poo.dominio.Carro;
+import Poo.A_introducaoClasses.dominio.Carro;
 
 public class carroTeste {
     static void main() {

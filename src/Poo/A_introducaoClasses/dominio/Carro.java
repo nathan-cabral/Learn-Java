@@ -1,4 +1,4 @@
-package Poo.dominio;
+package Poo.A_introducaoClasses.dominio;
 
 public class Carro {
     public String modelo;
