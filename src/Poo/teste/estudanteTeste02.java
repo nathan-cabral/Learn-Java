@@ -7,6 +7,6 @@ public class estudanteTeste02 {
         Estudante estudante=new Estudante();
         System.out.println(estudante.nome);
         System.out.println(estudante.idade);
-        System.out.println(estudante.sexo)                                    ;
+        System.out.println(estudante.sexo);;
     }
 }

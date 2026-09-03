@@ -1,6 +1,6 @@
 package Poo.dominio;
 
-public class Professor {
+public class professor {
     public String nome;
     public int idade;
     public String sexo;
