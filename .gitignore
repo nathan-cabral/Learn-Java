@@ -1,0 +1,8 @@
+# Arquivos do IntelliJ
+.idea/
+*.iml
+
+# Arquivos gerados ao executar/compilar
+out/
+target/
+*.class
